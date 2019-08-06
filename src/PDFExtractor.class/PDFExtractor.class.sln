@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFExtractor.class", "PDFExtractor.class\PDFExtractor.class.csproj", "{6B8B9FA3-8167-41F8-91E1-1AB1A9B32C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFExtractor.Forms", "PDFExtractor.Forms\PDFExtractor.Forms.csproj", "{97291C72-C5B9-4F18-9852-C101922A76DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B8B9FA3-8167-41F8-91E1-1AB1A9B32C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8B9FA3-8167-41F8-91E1-1AB1A9B32C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8B9FA3-8167-41F8-91E1-1AB1A9B32C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8B9FA3-8167-41F8-91E1-1AB1A9B32C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97291C72-C5B9-4F18-9852-C101922A76DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97291C72-C5B9-4F18-9852-C101922A76DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97291C72-C5B9-4F18-9852-C101922A76DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97291C72-C5B9-4F18-9852-C101922A76DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8A87214-C7BA-4D4F-B12B-C3D703973180}
+	EndGlobalSection
+EndGlobal
